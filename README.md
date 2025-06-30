@@ -1,5 +1,9 @@
+# Hi there 👋
+
+I'm Chang TechKuang, a passionate Full Stack Developer from Cambodia 🇰🇭
+
 # 💫 About Me:
-🔭 I’m currently working on JavaScript<br>👯 I’m looking to collaborate on AI Research Topic<br>🤝 I’m looking for help with AI Best Prompt<br>🌱 I’m currently learning Vibe coding<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Web Apps<br>🌱 I’m currently learning: Korean language 🇰🇷, AI Best Prompt, Vibe coding👯 I’m looking to collaborate on AI Research Topic<br>🤝 I’m looking for help with AI Best Prompt<br>💬 Ask me about Springboot, JavaScript, NextJs<br>⚡ Fun fact: I love traveling to the seaside 🌊 and futuristic tech 🤖
 
 
 ## 🌐 Socials:
