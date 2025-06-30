@@ -23,6 +23,6 @@ I'm Chang TechKuang, a passionate Full Stack Developer from Cambodia 🇰🇭
 ![](https://github-contributor-stats.vercel.app/api?username=ChangTechkuang&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Chang Techkuang&icon=4&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ChangTechkuang&icon=4&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
